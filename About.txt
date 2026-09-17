@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About - All Green Foundation</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      padding: 20px;
+    }
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      color: #4CAF50;
+      margin-bottom: 10px;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>About All Green Foundation</h1>
+  <p>
+    The All Green Foundation is a community-driven non-profit organization dedicated to promoting sustainable gardening practices, food security, and environmental education. Our mission is to foster community involvement through practical gardening initiatives that not only produce fresh food but also serve as educational platforms for sustainable living.
+  </p>
+  <p>
+    Our garden features native plants, vegetable beds, and eco-friendly spaces that serve as a hub for learning, collaboration, and environmental responsibility. We aim to create a practical learning environment where people of all ages can develop gardening skills, work together, and learn how to protect natural resources.
+  </p>
+  <p>
+    Join us in our journey to build a greener, healthier community through sustainable practices and shared knowledge.
+  </p>
+</body>
+</html>
